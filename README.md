@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UnremittingEncore
-- 👀 I’m interested in IoS Development
+- 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning Web Development
 - 🎮 I love to play video games like NFS, Asphalt 9, Battlefield, etc.
 
